@@ -7,7 +7,7 @@ Instalar wkhtmltopdf en Linux para Utilizarlo en Odoo
 <code>
 sudo apt-get install libxrender1 fontconfig xvfb libjpeg-turbo8
 cd /opt
-git clone https://github.com/falconsoft3d/instalar-odoo-wkhtmltopdf
+git clone https://github.com/Nahuiik/instalar-odoo-wkhtmltopdf
 cd instalar-odoo-wkhtmltopdf
 sudo dpkg -i wkhtmltox-0.12.1_linux-trusty-amd64.deb
 sudo cp /usr/local/bin/wkhtmltoimage /usr/bin/wkhtmltoimage
